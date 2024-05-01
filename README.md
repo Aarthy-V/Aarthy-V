@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Undergraduate+student;Computer+Engineering;+University+of+Jaffna" alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Undergraduate+student;Computer+Engineering" alt="Typing SVG" /></a>
+</p>
+
 
 <div align="center">
   <a href="www.linkedin.com/in/aarthy-varathan-425120217" target="_blank">
